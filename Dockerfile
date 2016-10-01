@@ -1,3 +1,3 @@
 FROM ubuntu:16.04
 
-RUN ls -al
+RUN ls -alh
